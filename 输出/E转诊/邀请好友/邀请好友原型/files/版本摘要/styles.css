@@ -1,0 +1,142 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:854px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u122_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:45px;
+  background:inherit;
+  background-color:rgba(215, 215, 215, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u122 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:844px;
+  height:45px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u123 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:840px;
+  word-wrap:break-word;
+}
+#u124 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:55px;
+  width:849px;
+  height:170px;
+}
+#u125_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:46px;
+}
+#u125 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:46px;
+  text-align:left;
+}
+#u126 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:840px;
+  word-wrap:break-word;
+}
+#u127_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:119px;
+}
+#u127 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:46px;
+  width:844px;
+  height:119px;
+  text-align:left;
+}
+#u128 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:24px;
+  width:840px;
+  word-wrap:break-word;
+}
+#u129 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:220px;
+  width:849px;
+  height:182px;
+}
+#u130_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:177px;
+}
+#u130 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:177px;
+  text-align:left;
+}
+#u131 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:52px;
+  width:840px;
+  word-wrap:break-word;
+}
